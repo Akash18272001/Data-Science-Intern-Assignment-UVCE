@@ -23,6 +23,18 @@ To get started with the project, clone the repository and install the necessary 
 ```bash
 git clone https://github.com/codewithshek/Zeotap-Data-Science-Assignment-eCommerce-Transactions-Dataset.git](https://github.com/Akash18272001/Data-Science-Intern-Assignment-UVCE.git
 cd Data-Science-Intern-Assignment-UVCE/
- 
+...
+
+## Usage
+
+Each project folder contains a Jupyter Notebook for analysis and relevant reports in PDF format. You can run the notebooks locally using Jupyter Lab or Jupyter Notebook:
+
+```bash
+jupyter notebook  Akash_P_EDA.ipynb
+jupyter notebook  Akash_P_Lookalike.ipynb
+jupyter notebook Akash_P_Clustering.ipynb
+```
+
+This will allow you to explore the code and visualizations interactively.
  
 
